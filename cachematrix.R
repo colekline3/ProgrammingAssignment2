@@ -1,8 +1,8 @@
-## The following functions calculate the inverse of a matrix and saves it
+## The functions outlined below calculate the inverse of a matrix and saves it
 
 ## to the cache so the next time the user attempts to calculate the
 
-## matrix inverse, the previously saved value is returned instead of
+## matrix inverse, the saved value is returned instead of
 
 ## repeating the calculation.
 
